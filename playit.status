@@ -1,1 +1,523 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268120936 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268123992 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268139080 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268142166 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268145249 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268160356 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268163423 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268166532 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268181623 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268184689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268199791 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268202858 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268205919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268221031 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268224106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268239236 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268242315 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268245374 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268248443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268263554 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268266618 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268281724 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268284793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268299883 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268302949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268306009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268321096 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268324155 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268327214 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268342309 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268345373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268360480 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268363550 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268366609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268381703 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268384767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268399857 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268402974 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268406034 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268421138 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268424195 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268427264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268442372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268445443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268460552 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268463614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268478727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268481794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268484859 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268499959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268503017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268518104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268521164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268536262 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268539323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268542384 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268557481 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268560548 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268563605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268578716 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268581783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268584851 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268599956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268603026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268606090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268621187 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268624251 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268639354 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268642416 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268645477 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268660575 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268663637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268666699 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268681790 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268684854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268699968 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268703047 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268706109 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268721201 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268724277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268739383 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268742443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726268745507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726268760608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+send-firefox.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
